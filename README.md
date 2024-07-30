@@ -2,17 +2,13 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
+About This APP:
 
-About This Course:
-
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
--   🔥 Build an API
--   📱 Responsive UI With React.js and ChakraUI
--   🐞 Error Handling
--   🌐 Deployment
--   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+- ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+- 🔥 Build an API
+- 📱 Responsive UI With React.js and ChakraUI
+- 🐞 Error Handling
+- 🌐 Deployment
 
 ### Setup .env file
 
@@ -32,5 +28,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-### I'll see you in the next one! 🚀
